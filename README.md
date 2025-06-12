@@ -43,11 +43,11 @@ Este projeto é um bot criado com Python e Selenium que automatiza conexões no 
 ```bash
 git clone https://github.com/seu-usuario/linkedin-recruiter-bot.git
 cd linkedin-recruiter-bot
-````bash
+
 2.Instale as dependências:
 pip install -r requirements.txt
-```bash
+
 3.Vá ate o arquvi credencias.py e substitua por suas credencias de login do linkedin
-```bash
+
 4.Execute o script:
 python app.py
